@@ -1,0 +1,24 @@
+{
+  "name": "miraculum",
+  "version": "1.0.0",
+  "description": "For musicians that are want to learn musical grammar",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/http-server/bin/http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "miraculum"
+  },
+  "keywords": [
+    "music",
+    "gramar"
+  ],
+  "author": "meskalito89",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "vexflow": "^3.0.9"
+  }
+}
